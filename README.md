@@ -1,10 +1,10 @@
 ## Description
 Extend BestDealDB in order to allow the customer to support the following features/functionalities:
-1. write and submit a Product Review online
-2. add Trending link on the header bar that the user can use to see trends for sold products
+1. Write and submit a Product Review online
+2. Add Trending link on the header bar that the user can use to see trends for sold products
 
 ## Installation, Compliation and Execution
-- Unzip the compressed file SE452_Assignment3_BestDealDBMongo.zip.
+- Unzip the compressed file.
 - Put unzipped folder "BestDealDBMongo" under Tomcat's webapp path (%TOMCAT_HOME\webapps).
 - All source codes are under the folder \BestDealDBMongo\WEB-INF\classes. In case you need to recompile, open command prompt window, navigate to %TOMCAT_HOME\webapps\BestDealDBMongo\WEB-INF\classes and issue the javac command.
 - Make sure MySQL database is setup and running correctly;
